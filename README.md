@@ -5,7 +5,7 @@ In this exercise of Artificial intelligence course I build a function that check
 The board is a 2 dimensional array, in which a value of 0 indicates the place is empty, and the value of 1 indicates
 there is a piece there. To simplify rules (and since there is no “other side”), a piece can disappear if it makes a move beyond the final (6th) line. So an agent making a move in line 6 will disappear.
 
-### The algorithms that implemented to solve the problems: ###
+### The algorithms that implemented to solve the problem: ###
 
 - **Hill climbing**
 
