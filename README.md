@@ -11,4 +11,7 @@ The algorithms that implemented to solve the problems:
 - **Simulated annealing**
 - **Local beam search (k=3)**
 - **Genetic algorithm**
-- **A*-heuristic search**
+- ** A*-heuristic search **
+
+ T = T − T ∗ ( 1 min(𝑠𝑐𝑜𝑟𝑒)+𝑐𝑢𝑟𝑟𝑒𝑛𝑡(𝑠𝑐𝑜𝑟𝑒) )  
+ 
